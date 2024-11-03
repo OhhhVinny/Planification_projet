@@ -25,10 +25,7 @@
 
 ## Scénarimage / Simulation
 
-- **Visualisation des séquences** :
-  - **Séquence principale** : Visualisation des trois écrans disposés en triangle avec les zones sonores activées lorsque l’utilisateur touche un écran.
-- **Illustrations des interactions** :
-  - Intégration de captures d'écran ou de croquis montrant les écrans avec les zones de contact principales.
+![Scénarimiage](./medias/scenarimage.png)
 
 ---
 
@@ -72,10 +69,12 @@ Les **câbles** seront soigneusement dissimulés derrière chaque écran pour pr
 
 ### Liste des équipements
 
-- **3 Écrans tactiles** : Écran tactile de 4 x 2 mètres, permettant de diviser l’écran en 8 zones interactives pour déclencher des sons selon les touches de l’utilisateur.
-- **Haut-parleurs** : Haut-parleurs stéréo portatifs, diffusant les sons produits par l'installation pour une expérience immersive.
-- **Câblages** : Câblage USB et audio de qualité, assurant une connexion fiable et de bonne qualité pour l'audio et les données.
-- **Ordinateur / Dispositif de lecture sonore** : Ordinateur portable ou Raspberry Pi, gérant le logiciel de lecture sonore et le traitement des zones tactiles de l’écran.
+| Équipement                                    | Description                                                                                                                                       |
+| --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Écrans tactiles**                           | Écran tactile de 4 x 2 mètres, permettant de diviser l’écran en 8 zones interactives pour déclencher des sons selon les touches de l’utilisateur. |
+| **Haut-parleurs**                             | Haut-parleurs stéréo portatifs, diffusant les sons produits par l'installation pour une expérience immersive.                                     |
+| **Câblages**                                  | Câblage USB et audio de qualité, assurant une connexion fiable et de bonne qualité pour l'audio et les données.                                   |
+| **Ordinateur / Dispositif de lecture sonore** | Ordinateur portable ou Raspberry Pi, gérant le logiciel de lecture sonore et le traitement des zones tactiles de l’écran.                         |
 
 ### Logiciels et réseaux
 
