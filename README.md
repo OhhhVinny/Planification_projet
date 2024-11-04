@@ -1,4 +1,4 @@
-# Tableau Sonore
+# Triangle Sonore
 
 ## Concept
 
