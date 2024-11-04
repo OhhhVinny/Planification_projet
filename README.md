@@ -1,5 +1,4 @@
 # Triangle Sonore
-
 ## Concept
 
 - **Présentation du concept** :
